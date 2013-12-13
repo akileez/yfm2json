@@ -12,7 +12,7 @@
   ],
   "main": "./lib/y2j.js",
   "scripts": {
-    "test": "make test"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
     "y2j": "./bin/y2j"
