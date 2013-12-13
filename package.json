@@ -1,6 +1,6 @@
 {
   "name": "yfm2json",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Extracts YAML front matter from files to a single JSON string or file.",
   "author": {
     "name": "Keith Williams",
